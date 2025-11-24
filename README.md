@@ -1,2 +1,3 @@
-
-Contact:0111kk2.s@gmail.com
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics">
+</p>
